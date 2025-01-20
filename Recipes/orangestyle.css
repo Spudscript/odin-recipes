@@ -1,0 +1,20 @@
+body {
+    margin: 50px;
+    box-sizing: border-box;
+    background-color: orange;
+}
+h1 {
+    padding: 25px;
+    text-align: center;
+    font-family: cursive;
+    font-weight: 700;
+    font-size: 45px;
+
+}
+img {
+    display: block;
+    height: 300px;
+    width: 300px;
+    margin: 30px auto;
+    border-radius: 50px;
+}
